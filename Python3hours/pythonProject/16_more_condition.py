@@ -9,4 +9,11 @@ print("Your BMI:" + str(user_BMI))
 # Normal: 18.5 < user_BMI <= 25
 # Slightly overweight: 25 < user_BMI <= 30
 # Obesity: user_BMI > 30
-if user_BMI < 18.5:
+if user_BMI <= 18.5:
+    print("You are underweight")
+elif 18.5 < user_BMI <= 25:
+    print("You are normal")
+elif 25 < user_BMI <= 30:
+    print("You are obese")
+else:
+    print("You are overweight")
