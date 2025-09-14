@@ -72,3 +72,70 @@ result = high_homelessness_srt[['state','indiv_per_10k']]
 print(result)
 
 
+# Print the first few rows of sales
+print(sales.head())
+
+# Print column info for sales
+print(sales.info())
+
+# Print the mean of weekly_sales
+print(sales['weekly_sales'].mean())
+
+# Print the median of weekly_sales
+print(sales['weekly_sales'].median())
+
+# Print the maximum of the date column
+print(sales['date'].max())
+
+# Print the minimum of the date column
+print(sales['date'].min())
+
+
+# A custom IQR function
+def iqr(column):
+    return column.quantile(0.75) - column.quantile(0.25)
+
+# Print the IQR of temperature_c from sales
+print(sales['temperature_c'].agg(iqr))
+
+# A custom IQR function
+def iqr(column):
+    return column.quantile(0.75) - column.quantile(0.25)
+
+# Print the IQR of temperature_c, fuel_price_usd_per_l, & unemployment from sales
+print(sales[['temperature_c','fuel_price_usd_per_l','unemployment']].agg(iqr))
+
+# Define a custom function to calculate IQR
+def iqr(column):
+    return column.quantile(0.75) - column.quantile(0.25)
+
+# Print the IQR and median for the columns temperature_c, fuel_price_usd_per_l, and unemployment in sales
+print(sales[['temperature_c','fuel_price_usd_per_l','unemployment']].agg([iqr,'median']))
+
+# Sort sales_1_1 by date
+sales_1_1 = sales_1_1.sort_values('date')
+
+# Add cumulative sum of weekly_sales as cum_weekly_sales column
+sales_1_1['cum_weekly_sales'] = sales_1_1['weekly_sales'].cumsum()
+
+# Add cumulative max of weekly_sales as cum_max_sales column
+sales_1_1['cum_max_sales'] = sales_1_1['weekly_sales'].cummax()
+
+# Print the date, weekly_sales, cum_weekly_sales, and cum_max_sales columns
+print(sales_1_1[['date','weekly_sales', 'cum_weekly_sales','cum_max_sales']])
+
+# Drop duplicate store/type combinations
+store_types = sales.drop_duplicates(subset=['store','type'])
+print(store_types.head())
+
+# Drop duplicate store/department combinations
+store_depts = sales.drop_duplicates(subset=['store','department'])
+print(store_depts.head())
+
+# Subset sales for rows where is_holiday is True, then drop duplicate dates
+holiday_dates = sales[sales['is_holiday']==True].drop_duplicates(subset = ['date'])
+
+# Print the date column of holiday_dates
+print(holiday_dates['date'])
+
+
