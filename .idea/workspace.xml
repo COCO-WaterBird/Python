@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c593b0c6-d19e-4069-a9ed-29709deabd73" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Data Manipulation with pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/Data Manipulation with pandas.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumpyPandasMatplotlib/2.Series.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -17,6 +16,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -46,6 +46,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/NumpyPandasMatplotlib" />
+    </key>
+  </component>
   <component name="RunManager" selected="Python.Numpy">
     <configuration name="Math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
@@ -118,7 +123,7 @@
       <updated>1737261291147</updated>
       <workItem from="1737261292241" duration="504000" />
       <workItem from="1741393679206" duration="8080000" />
-      <workItem from="1757479945092" duration="27204000" />
+      <workItem from="1757479945092" duration="28394000" />
     </task>
     <servers />
   </component>
