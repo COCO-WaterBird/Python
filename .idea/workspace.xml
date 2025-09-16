@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c593b0c6-d19e-4069-a9ed-29709deabd73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/NumpyPandasMatplotlib/2.Series.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/NumpyPandasMatplotlib/2.Series.ipynb" afterDir="false" />
     </list>
@@ -16,8 +17,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -49,6 +50,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Dataset" />
+      <recent name="$PROJECT_DIR$/Adv Techniques With LLM" />
       <recent name="$PROJECT_DIR$/NumpyPandasMatplotlib" />
     </key>
   </component>
@@ -124,7 +127,7 @@
       <updated>1737261291147</updated>
       <workItem from="1737261292241" duration="504000" />
       <workItem from="1741393679206" duration="8080000" />
-      <workItem from="1757479945092" duration="29999000" />
+      <workItem from="1757479945092" duration="34891000" />
     </task>
     <servers />
   </component>
