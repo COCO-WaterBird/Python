@@ -5,6 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c593b0c6-d19e-4069-a9ed-29709deabd73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1/HW1_code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1/Heart_Failure.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -31,25 +38,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Numpy.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zhangke/Documents/GitHub/Python&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Math.executor": "Run",
+    "Python.Numpy.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/zhangke/Documents/GitHub/Python/Adv Techniques With LLM/Lecture1/Assignment1",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Dataset" />
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM" />
+      <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Dataset" />
       <recent name="$PROJECT_DIR$/NumpyPandasMatplotlib" />
     </key>
   </component>
@@ -125,7 +135,7 @@
       <updated>1737261291147</updated>
       <workItem from="1737261292241" duration="504000" />
       <workItem from="1741393679206" duration="8080000" />
-      <workItem from="1757479945092" duration="36088000" />
+      <workItem from="1757479945092" duration="37438000" />
     </task>
     <servers />
   </component>
