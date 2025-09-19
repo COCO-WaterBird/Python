@@ -5,13 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c593b0c6-d19e-4069-a9ed-29709deabd73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1/HW1_code.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1/Heart_Failure.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NumpyPandasMatplotlib/3.DateFrame.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +16,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -135,7 +129,7 @@
       <updated>1737261291147</updated>
       <workItem from="1737261292241" duration="504000" />
       <workItem from="1741393679206" duration="8080000" />
-      <workItem from="1757479945092" duration="37438000" />
+      <workItem from="1757479945092" duration="41286000" />
     </task>
     <servers />
   </component>
