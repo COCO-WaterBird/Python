@@ -5,10 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c593b0c6-d19e-4069-a9ed-29709deabd73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code/Demo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code/HW2_Code.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code/weather.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/Python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Python.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1/HW1_code.py" beforeDir="false" afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1/HW1_code.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Code/Presentation.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Code/knn_kmeans_sample.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/LLM_Lecture2.pptx" beforeDir="false" afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/LLM_Lecture2.pptx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,8 +20,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Python Script" />
         <option value="Jupyter Notebook" />
+        <option value="Python Script" />
       </list>
     </option>
   </component>
@@ -36,22 +38,27 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.Demo.executor": "Run",
     "Python.HW1_code.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW2_Code.executor": "Run",
     "Python.Math.executor": "Run",
     "Python.Numpy.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/zhangke/Documents/GitHub/Python/Adv Techniques With LLM/Lecture1/Code",
+    "last_opened_file_path": "/Users/zhangke/Documents/GitHub/Python/Adv Techniques With LLM/Lecture2/Code",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Code" />
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1" />
     </key>
@@ -61,7 +68,30 @@
       <recent name="$PROJECT_DIR$/NumpyPandasMatplotlib" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.HW1_code">
+  <component name="RunManager" selected="Python.Demo">
+    <configuration name="Demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code/Demo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="HW1_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -85,7 +115,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Math" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HW2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -94,12 +124,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intro to Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intro to Python/Math.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code/HW2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW2_Code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code/HW2_Code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -133,9 +186,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Demo" />
+        <item itemvalue="Python.HW2_Code" />
+        <item itemvalue="Python.HW2" />
         <item itemvalue="Python.HW1_code" />
         <item itemvalue="Python.Numpy" />
-        <item itemvalue="Python.Math" />
       </list>
     </recent_temporary>
   </component>
@@ -158,6 +213,7 @@
       <workItem from="1737261292241" duration="504000" />
       <workItem from="1741393679206" duration="8080000" />
       <workItem from="1757479945092" duration="48281000" />
+      <workItem from="1759075604506" duration="8134000" />
     </task>
     <servers />
   </component>
@@ -165,8 +221,11 @@
     <option name="version" value="3" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Python$HW2.coverage" NAME="HW2 Coverage Results" MODIFIED="1759115579468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
+    <SUITE FILE_PATH="coverage/Python$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1759120224738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
     <SUITE FILE_PATH="coverage/Python$Numpy.coverage" NAME="Numpy Coverage Results" MODIFIED="1741472442567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro to Python" />
     <SUITE FILE_PATH="coverage/Python$Math.coverage" NAME="Math Coverage Results" MODIFIED="1741394732632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro to Python" />
+    <SUITE FILE_PATH="coverage/Python$HW2_Code.coverage" NAME="HW2_Code Coverage Results" MODIFIED="1759116180783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
     <SUITE FILE_PATH="coverage/Python$HW1_code.coverage" NAME="HW1_code Coverage Results" MODIFIED="1758573454551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1" />
   </component>
 </project>
