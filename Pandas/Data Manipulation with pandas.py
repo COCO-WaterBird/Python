@@ -139,3 +139,21 @@ holiday_dates = sales[sales['is_holiday']==True].drop_duplicates(subset = ['date
 print(holiday_dates['date'])
 
 
+# Count the number of stores of each type
+store_counts = store_types['type'].value_counts()
+print(store_counts)
+
+# Get the proportion of stores of each type
+store_props = store_types['type'].value_counts(normalize=True)
+print(store_props)
+
+# Count the number of stores for each department and sort
+dept_counts_sorted = store_depts['department'].value_counts().sort_values(ascending=False)
+print(dept_counts_sorted)
+
+# Get the proportion of stores in each department and sort
+dept_props_sorted = store_depts['department'].value_counts(normalize=True).sort_values(ascending=False)
+print(dept_props_sorted)
+
+
+
