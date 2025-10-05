@@ -155,5 +155,58 @@ print(dept_counts_sorted)
 dept_props_sorted = store_depts['department'].value_counts(normalize=True).sort_values(ascending=False)
 print(dept_props_sorted)
 
+# Calculate total weekly sales
+sales_all = sales['weekly_sales'].sum()
+
+# Calculate total weekly sales for type A stores
+sales_A = sales[sales['type'] == 'A']['weekly_sales'].sum()
+
+# Calculate total weekly sales for type B stores
+sales_B = sales[sales['type'] == 'B']['weekly_sales'].sum()
+
+# Calculate total weekly sales for type C stores
+sales_C = sales[sales['type'] == 'C']['weekly_sales'].sum()
+
+# Create a list of totals for A, B, and C, divide by overall total. Print the result.
+sales_propn_by_type = [sales_A/sales_all,sales_B/sales_all,sales_C/sales_all]
+print(sales_propn_by_type)
 
 
+# From previous step
+sales_by_type = sales.groupby("type")["weekly_sales"].sum()
+
+# Group sales by type and is_holiday, take sum of weekly_sales
+sales_by_type_is_holiday = sales.groupby(['type','is_holiday'])['weekly_sales'].sum()
+print(sales_by_type_is_holiday)
+
+# Aggregate weekly_sales for each store type: min, max, mean, and median
+sales_stats = sales.groupby('type')['weekly_sales'].agg(['min','max','mean','median'])
+
+# Print the sales_stats DataFrame
+print(sales_stats)
+
+# Aggregate unemployment and fuel_price_usd_per_l for each store type: min, max, mean, and median
+unemp_fuel_stats = sales.groupby('type')[['unemployment','fuel_price_usd_per_l']].agg(['min','max','mean','median'])
+
+# Print the unemp_fuel_stats DataFrame
+print(unemp_fuel_stats)
+
+# Get the mean weekly_sales by type using a pivot table
+mean_sales_by_type = sales.pivot_table(
+    values='weekly_sales',
+    index='type'
+
+)
+
+# Print mean_sales_by_type
+print(mean_sales_by_type)
+
+# Pivot for mean and median weekly_sales for each store type
+mean_med_sales_by_type = sales.pivot_table(
+    values = 'weekly_sales',
+    index = 'type',
+    aggfunc = ['mean','median']
+)
+
+# Print mean_med_sales_by_type
+print(mean_med_sales_by_type)
