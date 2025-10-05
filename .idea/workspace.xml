@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c593b0c6-d19e-4069-a9ed-29709deabd73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/Project+1+-+Weather+Dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/1/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -214,12 +210,23 @@
       <workItem from="1741393679206" duration="8080000" />
       <workItem from="1757479945092" duration="48281000" />
       <workItem from="1759075604506" duration="8134000" />
-      <workItem from="1759682665607" duration="1060000" />
+      <workItem from="1759682665607" duration="5756000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/zhangke/Documents/GitHub/Python/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb</url>
+          <line>91</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Python$HW2.coverage" NAME="HW2 Coverage Results" MODIFIED="1759115579468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
