@@ -5,8 +5,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c593b0c6-d19e-4069-a9ed-29709deabd73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/Project 2 : Cars Data Analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/Project+2+-+Cars+Dataset.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 3 : Police Data Analysis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/Covid_19_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/Project 4 : Covid-19 Data Analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/test.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/Code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/Code/train.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture4/Code/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture4/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Data Analyst Bootcamp From Basics To Advanced/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Complete Data Analyst Bootcamp From Basics To Advanced/roadmap.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/Project+1+-+Weather+Dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/Project+1+-+Weather+Dataset.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Play 2. Project 2 : Cars Data Analysis/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/__init__.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,8 +33,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Jupyter Notebook" />
         <option value="Python Script" />
+        <option value="Jupyter Notebook" />
       </list>
     </option>
   </component>
@@ -32,39 +49,44 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.Demo.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW1_code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
-    &quot;Python.HW2_Code.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Math.executor&quot;: &quot;Run&quot;,
-    &quot;Python.Numpy.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/zhangke/Documents/GitHub/Python/Adv Techniques With LLM/Lecture2/Code&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.Demo.executor": "Run",
+    "Python.HW1_code.executor": "Run",
+    "Python.HW2.executor": "Run",
+    "Python.HW2_Code.executor": "Run",
+    "Python.HW3.executor": "Run",
+    "Python.HW4.executor": "Run",
+    "Python.Math.executor": "Run",
+    "Python.Numpy.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/zhangke/Documents/GitHub/Python/Adv Techniques With LLM/Lecture3/Code",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/Code" />
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Code" />
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis" />
+      <recent name="$PROJECT_DIR$/Complete Data Analyst Bootcamp From Basics To Advanced" />
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM" />
+      <recent name="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Play 2. Project 2 : Cars Data Analysis" />
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Dataset" />
-      <recent name="$PROJECT_DIR$/NumpyPandasMatplotlib" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Demo">
+  <component name="RunManager" selected="Python.HW4_Code">
     <configuration name="Demo" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
@@ -80,29 +102,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code/Demo.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="HW1_code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="Python" />
-      <option name="ENV_FILES" value="" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1/HW1_code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +156,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Numpy" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="HW3_Code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python" />
       <option name="ENV_FILES" value="" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -166,12 +165,35 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Intro to Python" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/Code" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Intro to Python/Numpy.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/Code/HW3_Code.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="HW4_Code" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture4/Code" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Adv Techniques With LLM/Lecture4/Code/HW4_Code.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -182,11 +204,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.HW4_Code" />
+        <item itemvalue="Python.HW3_Code" />
         <item itemvalue="Python.Demo" />
         <item itemvalue="Python.HW2_Code" />
         <item itemvalue="Python.HW2" />
-        <item itemvalue="Python.HW1_code" />
-        <item itemvalue="Python.Numpy" />
       </list>
     </recent_temporary>
   </component>
@@ -210,7 +232,9 @@
       <workItem from="1741393679206" duration="8080000" />
       <workItem from="1757479945092" duration="48281000" />
       <workItem from="1759075604506" duration="8134000" />
-      <workItem from="1759682665607" duration="5756000" />
+      <workItem from="1759682665607" duration="10009000" />
+      <workItem from="1759712326329" duration="3918000" />
+      <workItem from="1759766215574" duration="4792000" />
     </task>
     <servers />
   </component>
@@ -232,8 +256,10 @@
     <SUITE FILE_PATH="coverage/Python$HW2.coverage" NAME="HW2 Coverage Results" MODIFIED="1759115579468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
     <SUITE FILE_PATH="coverage/Python$Demo.coverage" NAME="Demo Coverage Results" MODIFIED="1759120224738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
     <SUITE FILE_PATH="coverage/Python$Numpy.coverage" NAME="Numpy Coverage Results" MODIFIED="1741472442567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro to Python" />
+    <SUITE FILE_PATH="coverage/Python$HW4.coverage" NAME="HW4 Coverage Results" MODIFIED="1759712348546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture4/Code" />
     <SUITE FILE_PATH="coverage/Python$Math.coverage" NAME="Math Coverage Results" MODIFIED="1741394732632" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Intro to Python" />
     <SUITE FILE_PATH="coverage/Python$HW2_Code.coverage" NAME="HW2_Code Coverage Results" MODIFIED="1759116180783" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture2/Code" />
+    <SUITE FILE_PATH="coverage/Python$HW3.coverage" NAME="HW3 Coverage Results" MODIFIED="1759709182247" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/Code" />
     <SUITE FILE_PATH="coverage/Python$HW1_code.coverage" NAME="HW1_code Coverage Results" MODIFIED="1758573454551" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1" />
   </component>
 </project>
