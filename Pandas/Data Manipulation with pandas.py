@@ -210,3 +210,58 @@ mean_med_sales_by_type = sales.pivot_table(
 
 # Print mean_med_sales_by_type
 print(mean_med_sales_by_type)
+
+# Pivot sales to get mean of weekly_sales by type and is_holiday
+mean_sales_by_type_holiday = sales.pivot_table(
+    values = 'weekly_sales',
+    index = 'type',
+    columns = 'is_holiday',
+    aggfunc = 'mean'
+)
+
+# Print mean_sales_by_type_holiday
+print(mean_sales_by_type_holiday)
+
+# Print mean weekly_sales by department and type; fill missing values with 0
+sales.pivot_table(
+    values = 'weekly_sales',
+    index = 'department',
+    columns = 'type',
+    aggfunc = 'mean',
+    fill_value = 0
+)
+
+# Print the mean weekly_sales by department and type; fill missing values with 0s; sum all rows and cols
+print(sales.pivot_table(
+    values='weekly_sales',
+    index='department',
+    columns='type',
+    aggfunc='mean',
+    fill_value=0,
+    margins=True
+))
+
+# Print temperatures
+print(temperatures)
+
+# Set the index of temperatures to city and assign to temperatures_ind
+temperatures_ind = temperatures.set_index("city")
+
+# Print temperatures_ind
+print(temperatures_ind)
+
+# Reset the index of temperatures_ind (keep index contents) and print
+print(temperatures_ind.reset_index())
+
+# Reset the index of temperatures_ind (drop index contents) and print
+print(temperatures_ind.reset_index(drop=True))
+
+# Create a list of cities to subset on
+cities = ['London','Paris']
+
+# Subset temperatures for cities using square brackets and print
+
+print(temperatures[temperatures['city'].isin(cities)])
+
+# Subset temperatures_ind for cities using .loc[] and print
+print(temperatures_ind.loc[cities])

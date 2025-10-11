@@ -5,25 +5,21 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c593b0c6-d19e-4069-a9ed-29709deabd73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/Project 2 : Cars Data Analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/Project+2+-+Cars+Dataset.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 3 : Police Data Analysis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/Covid_19_data.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/Project 4 : Covid-19 Data Analysis.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/test.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/Code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/Code/train.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture4/Code/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Adv Techniques With LLM/Lecture4/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complete Data Analyst Bootcamp From Basics To Advanced/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Complete Data Analyst Bootcamp From Basics To Advanced/roadmap.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/Project+1+-+Weather+Dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/Project+1+-+Weather+Dataset.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Play 2. Project 2 : Cars Data Analysis/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/Project+1+-+Weather+Dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/Project 2 : Cars Data Analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/Project+2+-+Cars+Dataset.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 3 : Police Data Analysis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/.ipynb_checkpoints/test-checkpoint.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/Covid_19_data.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/Project 4 : Covid-19 Data Analysis.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/test.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Pandas/Data Manipulation with pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/Data Manipulation with pandas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,28 +45,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Python.Demo.executor": "Run",
-    "Python.HW1_code.executor": "Run",
-    "Python.HW2.executor": "Run",
-    "Python.HW2_Code.executor": "Run",
-    "Python.HW3.executor": "Run",
-    "Python.HW4.executor": "Run",
-    "Python.Math.executor": "Run",
-    "Python.Numpy.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/zhangke/Documents/GitHub/Python/Adv Techniques With LLM/Lecture3/Code",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "settings.editor.selected.configurable": "org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.Demo.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW1_code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW2.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW2_Code.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW3.executor&quot;: &quot;Run&quot;,
+    &quot;Python.HW4.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Math.executor&quot;: &quot;Run&quot;,
+    &quot;Python.Numpy.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/zhangke/Documents/GitHub/Python/Adv Techniques With LLM/Lecture3/Code&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Lecture3/Code" />
@@ -79,11 +75,11 @@
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Lecture1/Assignment1" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 3 : Police Data Analysis" />
       <recent name="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis" />
       <recent name="$PROJECT_DIR$/Complete Data Analyst Bootcamp From Basics To Advanced" />
       <recent name="$PROJECT_DIR$/Adv Techniques With LLM" />
       <recent name="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Play 2. Project 2 : Cars Data Analysis" />
-      <recent name="$PROJECT_DIR$/Adv Techniques With LLM/Dataset" />
     </key>
   </component>
   <component name="RunManager" selected="Python.HW4_Code">
@@ -234,7 +230,9 @@
       <workItem from="1759075604506" duration="8134000" />
       <workItem from="1759682665607" duration="10009000" />
       <workItem from="1759712326329" duration="3918000" />
-      <workItem from="1759766215574" duration="4792000" />
+      <workItem from="1759766215574" duration="6374000" />
+      <workItem from="1759787592377" duration="6564000" />
+      <workItem from="1759957796942" duration="2369000" />
     </task>
     <servers />
   </component>
