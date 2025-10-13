@@ -5,8 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c593b0c6-d19e-4069-a9ed-29709deabd73" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/AWS/Master AWS with Python and Boto3/Installation and Set-Up.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/AWS/Master AWS with Python and Boto3/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -221,6 +219,7 @@
       <workItem from="1759766215574" duration="6374000" />
       <workItem from="1759787592377" duration="6564000" />
       <workItem from="1759957796942" duration="13768000" />
+      <workItem from="1760324198934" duration="65000" />
     </task>
     <servers />
   </component>
