@@ -5,21 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c593b0c6-d19e-4069-a9ed-29709deabd73" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/AWS/Master AWS with Python and Boto3/Installation and Set-Up.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/AWS/Master AWS with Python and Boto3/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/Project+1+-+Weather+Dataset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 1 : Weather Data Analysis/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/Project 2 : Cars Data Analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/Project+2+-+Cars+Dataset.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 2 : Cars Data Analysis/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 3 : Police Data Analysis/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/.ipynb_checkpoints/test-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/Covid_19_data.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/Project 4 : Covid-19 Data Analysis.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/Project 4 : Covid-19 Data Analysis/test.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/13 Python Data Analytics Real World Hands-on Projects/__init__.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pandas/Data Manipulation with pandas.py" beforeDir="false" afterPath="$PROJECT_DIR$/Pandas/Data Manipulation with pandas.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,7 +220,7 @@
       <workItem from="1759712326329" duration="3918000" />
       <workItem from="1759766215574" duration="6374000" />
       <workItem from="1759787592377" duration="6564000" />
-      <workItem from="1759957796942" duration="2369000" />
+      <workItem from="1759957796942" duration="13768000" />
     </task>
     <servers />
   </component>
@@ -246,6 +234,16 @@
           <url>notebook:///Users/zhangke/Documents/GitHub/Python/13 Python Data Analytics Real World Hands-on Projects/ Project 1 : Weather Data Analysis/1. Project 1 : Weather Data Analysis.ipynb</url>
           <line>91</line>
           <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/zhangke/Documents/GitHub/Python/AWS/Master AWS with Python and Boto3/Installation and Set-Up.ipynb</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/zhangke/Documents/GitHub/Python/AWS/Master AWS with Python and Boto3/Installation and Set-Up.ipynb</url>
+          <line>43</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
